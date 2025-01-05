@@ -8,13 +8,13 @@ In this short guide I will walk you through the process of creating a virtual Ma
 <h2>Step 1: Install VirtualBox.</h2>
 
 
-<b>The first thing you need to do is install the proper program. Head over to virtualBox's website and click the download button as depicted below. Make sure you download the version that matches your operating system. In my case I am using a windows machine. </b>
+<b>The first thing you need to do is install the proper program. Head over to virtualBox's website and click the download button as depicted below. Make sure you download the version that matches your operating system. In my case I am using a windows machine. You can download it here: [VirtualBox](https://www.virtualbox.org/) </b>
 
 ![VBDL](VBDL.JPG)
  
  <h2>Step 2: Download an iso</h2>
  
- <b>You will need an iso file to create the machine. you can create your own if you have a valid windows license but to keep things simple we will download one from microsoft. Using the link below you will need to click the "download now" button </b>
+ <b>You will need an iso file to create the machine. you can create your own if you have a valid windows license but to keep things simple we will download one from microsoft. Using the link below you will need to click the "download now" button. You can download this here: [Windows Iso](https://www.microsoft.com/en-ca/software-download/windows10))</b>
 
 ![isoDL](IsoDl.JPG)
 
