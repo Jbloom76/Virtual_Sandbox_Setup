@@ -10,7 +10,7 @@ In this short guide I will walk you through the process of creating a virtual Ma
 
 <b>The first thing you need to do is install the proper program. Head over to virtualBox's website and click the download button as depicted below. Make sure you download the version that matches your operating system. In my case I am using a windows machine. </b>
 
-![VBDL](VboxDL.JPG)
+![VBDL](VBDL.JPG)
  
  <h2>Step 2: Download an iso</h2>
  
